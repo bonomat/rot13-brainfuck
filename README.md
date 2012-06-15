@@ -13,7 +13,8 @@ Assuming you have [bf][1] installed:
 ## Credits
 
 * [bf][1] 
-* [wikipedia.com][2]
+* [wikipedia.com/wiki/Brainfuck][2]
+* [wikipedia.com/wiki/ROT13][3]
 
 [1]: https://launchpad.net/ubuntu/gutsy/+package/bf
 [2]: http://en.wikipedia.org/wiki/Brainfuck
