@@ -1,7 +1,7 @@
 # ROT13 Cipher written in brainfuck
 
 ## Summary
-This program enciphers its input with the [ROT13] cipher
+This program enciphers its input with the [ROT13][3] cipher
 
 ## Usage
 Assuming you have [bf][1] installed:
@@ -17,4 +17,4 @@ Assuming you have [bf][1] installed:
 
 [1]: https://launchpad.net/ubuntu/gutsy/+package/bf
 [2]: http://en.wikipedia.org/wiki/Brainfuck
-
+[3]: http://en.wikipedia.org/wiki/ROT13
