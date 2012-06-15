@@ -4,7 +4,7 @@
 This program enciphers its input with the [ROT13] cipher
 
 ## Usage
-Assuming you have [bf] installed:
+Assuming you have [bf][1] installed:
 
     cat plain.txt | bf rot13.bf
     and
